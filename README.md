@@ -23,3 +23,4 @@ This report covers a comprehensive set of testing types, including Functional, U
 > 
 > 1.  `TFF Manual Testing Report.xlsx - Project Description.csv`
 > 2.  `TFF Manual Testing Report.xlsx - Test Cases.csv`
+> 3.  `TFF Manual Testing Report.xlsv - Bug Report.csv`
